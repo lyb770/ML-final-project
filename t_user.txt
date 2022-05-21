@@ -1,0 +1,76 @@
+('batman forever', 2.5) 
+
+("schindler's list", 4.5) 
+
+('blade runner', 5.0) 
+
+('batman', 2.0) 
+
+('2001: a space odyssey', 3.0) 
+
+('basic instinct', 1.0) 
+
+('monty python and the holy grail', 4.5) 
+
+('aliens', 4.0) 
+
+('apocalypse now', 3.5) 
+
+('star wars: episode vi - return of the jedi', 3.5) 
+
+('alien', 4.0) 
+
+('amadeus', 3.0) 
+
+('annie hall', 3.5) 
+
+('unforgiven', 5.0) 
+
+('back to the future', 4.0) 
+
+('highlander', 4.5) 
+
+('gandhi', 4.0) 
+
+('batman returns', 2.5) 
+
+('air force one', 1.5) 
+
+('l.a. confidential', 4.5) 
+
+('good will hunting', 4.0) 
+
+('jackie brown', 3.5) 
+
+('as good as it gets', 4.5) 
+
+('tron', 4.5) 
+
+('antz', 2.5) 
+
+('shakespeare in love', 4.0) 
+
+('airplane!', 3.5) 
+
+('airplane ii: the sequel', 3.0) 
+
+('fight club', 5.0) 
+
+('being john malkovich', 5.0) 
+
+('backdraft', 2.5) 
+
+('alien nation', 4.0) 
+
+('memento', 4.0) 
+
+('48 hrs.', 1.5) 
+
+('barton fink', 4.5) 
+
+('big fish', 4.5) 
+
+('eternal sunshine of the spotless mind', 4.5) 
+
+('1492: conquest of paradise', 3.0) 
+
